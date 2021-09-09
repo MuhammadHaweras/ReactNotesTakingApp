@@ -1,0 +1,1 @@
+In this website You can take notes. This site is created with React.js and material ui. For fetching data i used json server. After downloading repositary, to fetch data from json file run "json-server --watch Data/db.json --port 8000" in terminal. 
